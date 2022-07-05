@@ -15,3 +15,10 @@ console.log(area)
 const escola = 'Cod3r'
 
 console.log(escola.charAt(4))
+
+const up = texto => texto.toUpperCase()
+console.log(`Ei ${up('cuidado !')}`)
+
+const produto = {}
+produto.preco = null
+console.log(produto)
