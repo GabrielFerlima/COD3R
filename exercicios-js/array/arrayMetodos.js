@@ -15,5 +15,5 @@ pilotos.splice(2,0, 'Bottas', 'Massa') //Primeiro vc add o indice, segundo se de
 
 console.log(pilotos)
 
-const algunsPilotos = pilotos.slice(2) // novo array gerado 
+const algunsPilotos = pilotos.slice(2) // novo array gerado, slice é pegar uma parte do array e fazer outro.
 console.log(algunsPilotos)
